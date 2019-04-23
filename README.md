@@ -1,3 +1,7 @@
+**This repository has been archived and is no longer maintained. For future releases please go to:
+
+https://github.com/ni/niveristand-engine-simulation-toolkit-fpga-ip
+
 ## Engine Simulation Toolkit FPGA IP ##
 
 **Engine Simulation Toolkit FPGA IP** is the raw Engine Simulation Toolkit FPGA IP and testing code before built into a VI package.
